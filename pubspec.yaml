@@ -1,0 +1,19 @@
+name: islamic_prayer_times
+description: A Flutter package for calculating Islamic prayer times offline using astronomical calculations with Egyptian method.
+version: 1.0.0
+homepage: https://github.com/ahmed-algzery/islamic_prayer_times
+repository: https://github.com/ahmed-algzery/islamic_prayer_times
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+

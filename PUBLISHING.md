@@ -15,7 +15,7 @@
 
 1. **Navigate to the package directory**:
    ```bash
-   cd "/Volumes/Algzery/algzery package/islamic_prayer_times"
+   cd "/Volumes/Algzery/algzery package/egyptian_prayer_times"
    ```
 
 2. **Login to pub.dev** (if not already logged in):
@@ -37,7 +37,7 @@
    - **Note**: Once published, you cannot delete or unpublish the package, only upload new versions
 
 5. **Verify publication**:
-   - Visit https://pub.dev/packages/islamic_prayer_times
+   - Visit https://pub.dev/packages/egyptian_prayer_times
    - Your package should be available within a few minutes
 
 ## Important Notes
@@ -55,11 +55,11 @@
 
 ## After Publishing
 
-1. Share your package URL: `https://pub.dev/packages/islamic_prayer_times`
+1. Share your package URL: `https://pub.dev/packages/egyptian_prayer_times`
 2. Users can add it to their `pubspec.yaml`:
    ```yaml
    dependencies:
-     islamic_prayer_times: ^1.0.0
+     egyptian_prayer_times: ^1.0.0
    ```
 3. Monitor for issues and feedback on pub.dev
 

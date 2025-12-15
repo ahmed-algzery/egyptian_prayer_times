@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:islamic_prayer_times/islamic_prayer_times.dart';
+import 'package:egyptian_prayer_times/egyptian_prayer_times.dart';
 
 void main() {
   group('PrayerCalculator', () {

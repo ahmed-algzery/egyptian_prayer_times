@@ -1,4 +1,4 @@
-library islamic_prayer_times;
+library egyptian_prayer_times;
 
 export 'src/prayer_calculator.dart';
 export 'src/models/prayer_time.dart';

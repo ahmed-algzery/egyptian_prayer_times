@@ -18,7 +18,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  islamic_prayer_times: ^1.0.0
+  egyptian_prayer_times: ^1.0.0
 ```
 
 Then run:
@@ -32,7 +32,7 @@ flutter pub get
 ### Basic Usage
 
 ```dart
-import 'package:islamic_prayer_times/islamic_prayer_times.dart';
+import 'package:egyptian_prayer_times/egyptian_prayer_times.dart';
 
 // Create a calculator for Cairo, Egypt
 final calculator = PrayerCalculator(
@@ -244,5 +244,5 @@ Created with ❤️ by Ahmed Algzery
 
 ## Support 💬
 
-For issues, questions, or suggestions, please file an issue on the [GitHub repository](https://github.com/ahmed-algzery/islamic_prayer_times).
+For issues, questions, or suggestions, please file an issue on the [GitHub repository](https://github.com/ahmed-algzery/egyptian_prayer_times).
 
